@@ -109,6 +109,10 @@
             position: relative;
         }
 
+        .header-area .container span {
+            color: var(--primary-color);
+        }
+
         .logo {
             font-size: 32px;
             font-weight: 800;
